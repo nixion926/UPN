@@ -1,0 +1,673 @@
+[
+ {
+  "file": "site/home-0.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_cf2dff3417064a01812417056d0ad27f~mv2.png"
+ },
+ {
+  "file": "team/rx-insider-the-pharmacy-500.png",
+  "alt": "Rx Insider the Pharmacy 500",
+  "pages": [
+   "home",
+   "about-us",
+   "our-team",
+   "vendors",
+   "join-upn",
+   "ibg-drugs",
+   "testimonials",
+   "contact",
+   "referral-a-pharmacy",
+   "blog"
+  ],
+  "wixId": "67b517_84786b2eb93a448188ebe9098efc92fd~mv2.png"
+ },
+ {
+  "file": "team/united-pharmacy-network-upn.png",
+  "alt": "United Pharmacy Network (UPN)",
+  "pages": [
+   "home",
+   "about-us",
+   "our-team",
+   "vendors",
+   "join-upn",
+   "ibg-drugs",
+   "testimonials",
+   "contact",
+   "referral-a-pharmacy",
+   "blog"
+  ],
+  "wixId": "67b517_9224268c9607439bbf8e4599f69615e1~mv2.png"
+ },
+ {
+  "file": "site/pharmacist-helping-a-family.jpg",
+  "alt": "Pharmacist helping a family",
+  "pages": [
+   "home"
+  ],
+  "wixId": "11062b_526fdf8f3daa4c8cb0d6c9fbbeb56fbb~mv2.jpg"
+ },
+ {
+  "file": "site/5.png",
+  "alt": "5.png",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_89e0a89b94c24c1eaf3bbabe25108a4b~mv2.png"
+ },
+ {
+  "file": "site/purchasing-power.png",
+  "alt": "Purchasing Power",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_0031f8957a444deca66ab093bebfc53e~mv2.png"
+ },
+ {
+  "file": "site/nationwide-savings.png",
+  "alt": "Nationwide Savings.png",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_bfe633ea27d947488d866b1db06552ba~mv2.png"
+ },
+ {
+  "file": "site/wholesaler-options.png",
+  "alt": "Wholesaler Options",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_26cc046ad84548a2bc6041f8046c2c48~mv2.png"
+ },
+ {
+  "file": "site/transparent-rebates.png",
+  "alt": "Transparent Rebates",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_47f2410f8b5b4789bcd55de96378eb2d~mv2.png"
+ },
+ {
+  "file": "site/direct-rebate-savings.png",
+  "alt": "Direct Rebate Savings",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_683eb83cfe9f4bf4a5094809cabe4189~mv2.png"
+ },
+ {
+  "file": "vendors/home-10.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_d6dcff73c60041498dd0116f5f08fdda~mv2.png"
+ },
+ {
+  "file": "vendors/home-11.jpg",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_b975ea1bba6a4bfaa3f4e79ad7eac2e8~mv2.jpg"
+ },
+ {
+  "file": "vendors/home-12.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_2414487150174b35833da0c3623d9a88~mv2.png"
+ },
+ {
+  "file": "vendors/home-13.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_273d0dddb2c9423cba67fd9cac27c56d~mv2.png"
+ },
+ {
+  "file": "vendors/home-14.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_9360cac3b2764ffaa27186c1605f41d2~mv2.png"
+ },
+ {
+  "file": "vendors/home-15.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_d26843b072e542fd9b4b4a2283e80c60~mv2.png"
+ },
+ {
+  "file": "site/home-16.jpg",
+  "alt": "",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_9032581bc2cf448d8c49faad299dfb72~mv2.jpg"
+ },
+ {
+  "file": "vendors/home-17.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_ff0534b237884f5bb63a3fc72dfd758d~mv2.png"
+ },
+ {
+  "file": "vendors/home-18.jpg",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_095b60e871874f4daa2fee1710293efe~mv2.jpg"
+ },
+ {
+  "file": "vendors/home-19.webp",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_aad7776e6714420bb11146d85dc9e59f~mv2.webp"
+ },
+ {
+  "file": "vendors/home-20.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_9f1c13f1b9924b1c997584ccff213e4a~mv2.png"
+ },
+ {
+  "file": "vendors/home-21.png",
+  "alt": "",
+  "pages": [
+   "home",
+   "vendors"
+  ],
+  "wixId": "67b517_76fa1f76b0394e469cce0908976a383d~mv2.png"
+ },
+ {
+  "file": "blog/upn-welcomes-cartwheel-as-a-new-vendor-partner.png",
+  "alt": "UPN Welcomes Cartwheel as a New Vendor Partner",
+  "pages": [
+   "home",
+   "blog"
+  ],
+  "wixId": "67b517_51868753f2e14ad5b9c2126014b63f91~mv2.png"
+ },
+ {
+  "file": "blog/transparency-is-progress-better-data-is-the-next-step.png",
+  "alt": "Transparency Is Progress. Better Data Is the Next Step.",
+  "pages": [
+   "home",
+   "blog"
+  ],
+  "wixId": "67b517_515ae250c5e44456b47b5cafcb6a73b8~mv2.png"
+ },
+ {
+  "file": "blog/low-reimbursements-are-no-laughing-matter.png",
+  "alt": "Low Reimbursements Are No Laughing Matter",
+  "pages": [
+   "home",
+   "blog"
+  ],
+  "wixId": "67b517_df218c8c0b984efaa4acd320a852591b~mv2.png"
+ },
+ {
+  "file": "blog/cvs-just-confirmed-what-independent-pharmacies-have-known-for-years.png",
+  "alt": "CVS Just Confirmed What Independent Pharmacies Have Known for Years.",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_4512bf99b55e465d869cb5fb57ab5a60~mv2.png"
+ },
+ {
+  "file": "blog/another-lawsuit-another-reminder-of-why-transparency-matters.png",
+  "alt": "Another lawsuit. Another reminder of why transparency matters.",
+  "pages": [
+   "home"
+  ],
+  "wixId": "67b517_04cff11330f6433e92d679b210efdd1a~mv2.png"
+ },
+ {
+  "file": "site/about-us-37.jpg",
+  "alt": "",
+  "pages": [
+   "about-us"
+  ],
+  "wixId": "67b517_2c25500b32bc4830ac31746f6b15788d~mv2.jpg"
+ },
+ {
+  "file": "site/medicine-boxes.jpeg",
+  "alt": "Medicine Boxes",
+  "pages": [
+   "about-us"
+  ],
+  "wixId": "11062b_442635548c00490a98ebcf9111e465a0~mv2.jpeg"
+ },
+ {
+  "file": "blog/our-team-39.jpg",
+  "alt": "",
+  "pages": [
+   "our-team",
+   "vendors",
+   "join-upn",
+   "testimonials",
+   "contact",
+   "referral-a-pharmacy",
+   "blog"
+  ],
+  "wixId": "67b517_a0a167381000455db3c16a8b0acc89ae~mv2.jpg"
+ },
+ {
+  "file": "team/sam-maddali.jpg",
+  "alt": "Sam Maddali, CEO",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_103b6b7ec01543aaae23f61e486859a3~mv2.jpg"
+ },
+ {
+  "file": "team/shuchit-doshi.png",
+  "alt": "Shuchit Doshi",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_18cc03ca20744e3eb04b292102fce61c~mv2.png"
+ },
+ {
+  "file": "team/rama-manda.png",
+  "alt": "Rama Manda",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_142b32a2523e454d84c51cf3cb6b776b~mv2.png"
+ },
+ {
+  "file": "team/michele-dipaolo.png",
+  "alt": "Michele DiPaolo",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_da18d11659f540258c0da0dcbb2dd825~mv2.png"
+ },
+ {
+  "file": "team/kavya-m.png",
+  "alt": "Kavya M",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_cd9b49236fe14f5baa54557b5db9cbf9~mv2.png"
+ },
+ {
+  "file": "team/cory-betz.jpg",
+  "alt": "Cory Betz",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_80c97d0a46b7433687992461b91daa07~mv2.jpg"
+ },
+ {
+  "file": "team/dylan-lopez.png",
+  "alt": "Dylan Lopez",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_3ff989dff73e443695cceccf209959df~mv2.png"
+ },
+ {
+  "file": "team/rohan-thotakura.jpg",
+  "alt": "Rohan Thotakura",
+  "pages": [
+   "our-team"
+  ],
+  "wixId": "67b517_930813193ccd4788afb53c00d4cd046c~mv2.jpg"
+ },
+ {
+  "file": "vendors/on-the-green-cbd.png",
+  "alt": "On The Green CBD",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_e265654e81754186a8ac21cfd0bd084b~mv2.png"
+ },
+ {
+  "file": "vendors/axerx.jpg",
+  "alt": "AxeRx",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "531e5e_496e0340f0ba443a86d5172f4298a85f~mv2.jpg"
+ },
+ {
+  "file": "vendors/sun-50.png",
+  "alt": "Sun 50",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_187b38c3c48d48f2a8327bfe7a962695~mv2.png"
+ },
+ {
+  "file": "vendors/nudge-oral-care.png",
+  "alt": "Nudge Oral Care",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_1bd5b6c62a4c47988e653167533d9bf1~mv2.png"
+ },
+ {
+  "file": "vendors/houston-enzymes.png",
+  "alt": "Houston Enzymes",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_9f91476233e448fc85efe7dfc36db533~mv2.png"
+ },
+ {
+  "file": "vendors/palm-palm.png",
+  "alt": "Palm Palm",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_82f0cd119f584157876a0f4833a6dc92~mv2.png"
+ },
+ {
+  "file": "vendors/daphyls.png",
+  "alt": "Daphyls",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_c26cccaa536c41e39680c0234526e488~mv2.png"
+ },
+ {
+  "file": "vendors/k5.png",
+  "alt": "K5",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_71e699da2dbd42838fed944cb6ba8a9b~mv2.png"
+ },
+ {
+  "file": "vendors/go-mouthwash.png",
+  "alt": "Go Mouthwash",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_dcaa36475b594d7ea3dcc18ccf91e7c2~mv2.png"
+ },
+ {
+  "file": "vendors/manta-hair-limited.png",
+  "alt": "manta hair limited",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_d0b522f5d289404c887b2d6e6ecebc0e~mv2.png"
+ },
+ {
+  "file": "vendors/matrix-distributors-edited.png",
+  "alt": "Matrix Distributors_edited.png",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_dc25a30de83e4d77a3c38b5e17831fc0~mv2.png"
+ },
+ {
+  "file": "vendors/pnc-merchant-services.png",
+  "alt": "PNC Merchant Services",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_061c3c2ebede482aae3fa71516e51f5a~mv2.png"
+ },
+ {
+  "file": "vendors/animal-med-express.png",
+  "alt": "Animal Med Express",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_1a36a86b891344eb84b60b9b8880b9fc~mv2.png"
+ },
+ {
+  "file": "vendors/smart-swab.png",
+  "alt": "Smart Swab",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_90c1039a18d343cdb9f56f5e49057e1c~mv2.png"
+ },
+ {
+  "file": "vendors/wellgistics.png",
+  "alt": "Wellgistics",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_08ebdb6227514769a1b2ba873efc0cf5~mv2.png"
+ },
+ {
+  "file": "vendors/nannocare.png",
+  "alt": "Nannocare",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_5252310e389d4390a624b64e49c7ed02~mv2.png"
+ },
+ {
+  "file": "vendors/mr-pumice.png",
+  "alt": "Mr Pumice",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_8d23124f5d2f4f02a2825304ca19fc61~mv2.png"
+ },
+ {
+  "file": "vendors/designer-greetings.png",
+  "alt": "Designer Greetings",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_07f83f73f973409e8872bc8f62787abf~mv2.png"
+ },
+ {
+  "file": "vendors/biolyte.png",
+  "alt": "Biolyte",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_100ebaf384fd42ceae8c995895186880~mv2.png"
+ },
+ {
+  "file": "vendors/images-edited.jpg",
+  "alt": "images_edited.jpg",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_12f5ac178feb49b7a39b3e60cf027793~mv2.jpg"
+ },
+ {
+  "file": "vendors/advocate.jpg",
+  "alt": "Advocate",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_017cc0506e174b659f9afba12056fdfe~mv2.jpg"
+ },
+ {
+  "file": "vendors/benesprays-edited.png",
+  "alt": "Benesprays_edited.png",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_ef20c469cfbf478a9ee9a31bfe886a90~mv2.png"
+ },
+ {
+  "file": "vendors/vendors-71.png",
+  "alt": "",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_60c10679e4094b99932b18230c09db4d~mv2.png"
+ },
+ {
+  "file": "vendors/sprouted-soul-cbd.png",
+  "alt": "Sprouted Soul CBD.png",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_16f59d1d5dde451e80d6312e93b80bf8~mv2.png"
+ },
+ {
+  "file": "vendors/militti-sales-and-promotions.png",
+  "alt": "Militti Sales and Promotions.png",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_cbdb63dfe1e54028bc421945ffcbb6db~mv2.png"
+ },
+ {
+  "file": "vendors/windmill-health.png",
+  "alt": "Windmill Health",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_3f6b3662b3444afe8b6d54f9f0a9cee2~mv2.png"
+ },
+ {
+  "file": "vendors/aspen-green.png",
+  "alt": "Aspen-Green.png",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_55f40f3a3f16454c85018cc130987d76~mv2.png"
+ },
+ {
+  "file": "vendors/umw-logo-functional-medicine.jpg",
+  "alt": "UMW Logo Functional Medicine.jpg",
+  "pages": [
+   "vendors"
+  ],
+  "wixId": "67b517_93e1617909d042ed8032be4d51918b80~mv2.jpg"
+ },
+ {
+  "file": "ibg/ibg-drugs.png",
+  "alt": "IBG Drugs",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_386d1fbd043443e99ba63bbfc0c14bc5~mv2.png"
+ },
+ {
+  "file": "ibg/pharmaceuticals.png",
+  "alt": "pharmaceuticals",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_04a8d7c982ed4ec483e849e483a08296~mv2.png"
+ },
+ {
+  "file": "ibg/otc-medications.png",
+  "alt": "otc medications",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_548a0f21c2e94b85a7f57b4a7f3a1dae~mv2.png"
+ },
+ {
+  "file": "ibg/short-dated-rx.png",
+  "alt": "short dated rx",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_96b63aa1628d4270859e12f60c634548~mv2.png"
+ },
+ {
+  "file": "ibg/vitamins-and-supplements.png",
+  "alt": "vitamins and supplements",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_7b3fb8a71c07469d96c0ad4ccc5d331f~mv2.png"
+ },
+ {
+  "file": "ibg/hard-to-find-medications.png",
+  "alt": "hard to find medications",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_c77994f2dfb643bba396393439a93fe2~mv2.png"
+ },
+ {
+  "file": "ibg/dme.png",
+  "alt": "DME",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_ce4ed5a26c964145adfef6b76bfe9d83~mv2.png"
+ },
+ {
+  "file": "ibg/front-end-merchandise.png",
+  "alt": "front end merchandise",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_835ba98b6d194a0caf86091d8c804639~mv2.png"
+ },
+ {
+  "file": "ibg/cost-reduction-programs.png",
+  "alt": "cost reduction programs",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_852bea077dda493f8b401b9fcd47c4e7~mv2.png"
+ },
+ {
+  "file": "ibg/independent-pharmacy-gpo.png",
+  "alt": "independent pharmacy gpo",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_ea25fcd6386b4e438f4cc4a1ac9d67b7~mv2.png"
+ },
+ {
+  "file": "ibg/wide-selection-of-products.png",
+  "alt": "wide-selection of products",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_2a3e2944b7e14589a9806a01e001aa61~mv2.png"
+ },
+ {
+  "file": "ibg/easy-ordering-process.png",
+  "alt": "easy ordering process",
+  "pages": [
+   "ibg-drugs"
+  ],
+  "wixId": "67b517_a9092b36594d40a8847ddf38cb7a8c23~mv2.png"
+ },
+ {
+  "file": "site/united-pharmacy-network-upn-refer-a-pharmacy.png",
+  "alt": "United Pharmacy Network (UPN) Refer-A-Pharmacy",
+  "pages": [
+   "referral-a-pharmacy"
+  ],
+  "wixId": "67b517_1f43648a912e4ffb99d4133eea1135b7~mv2.png"
+ }
+]

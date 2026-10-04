@@ -1,0 +1,48 @@
+export type Vendor = { name: string; logo: string; featured?: boolean };
+
+// Logos scraped from upnrx.com/vendors. Add a vendor by dropping its logo in
+// /public/images/vendors and appending an entry here.
+export const vendors: Vendor[] = [
+  { name: "Wellgistics", logo: "/images/vendors/wellgistics.png", featured: true },
+  { name: "PNC Merchant Services", logo: "/images/vendors/pnc-merchant-services.png", featured: true },
+  { name: "Scriptera", logo: "/images/vendors/scriptera.png", featured: true },
+  { name: "Spectrum Pharmaceuticals", logo: "/images/vendors/spectrum-pharmaceuticals.png", featured: true },
+  { name: "Houston Enzymes", logo: "/images/vendors/houston-enzymes.png", featured: true },
+  { name: "Matrix Distributors", logo: "/images/vendors/matrix-distributors.png", featured: true },
+  { name: "AxeRx", logo: "/images/vendors/axerx.jpg", featured: true },
+  { name: "Green Goo", logo: "/images/vendors/green-goo.webp", featured: true },
+  { name: "SAI Therapeutic Brands", logo: "/images/vendors/sai-therapeutic-brands.png", featured: true },
+  { name: "Windmill Health Products", logo: "/images/vendors/windmill-health.png", featured: true },
+  { name: "BioServe Labs", logo: "/images/vendors/bioserve-labs.png", featured: true },
+  { name: "The MediStation", logo: "/images/vendors/the-medistation.png", featured: true },
+  { name: "Animal Med Express", logo: "/images/vendors/animal-med-express.png" },
+  { name: "Advocate", logo: "/images/vendors/advocate.jpg" },
+  { name: "Aspen Green", logo: "/images/vendors/aspen-green.png" },
+  { name: "BeneSprays", logo: "/images/vendors/benesprays.png" },
+  { name: "Biolyte", logo: "/images/vendors/biolyte.png" },
+  { name: "Daphyls", logo: "/images/vendors/daphyls.png" },
+  { name: "Designer Greetings", logo: "/images/vendors/designer-greetings.png" },
+  { name: "Go Mouthwash", logo: "/images/vendors/go-mouthwash.png" },
+  { name: "K5", logo: "/images/vendors/k5.png" },
+  { name: "Letsfit", logo: "/images/vendors/letsfit.jpg" },
+  { name: "Manta", logo: "/images/vendors/manta-hair-limited.png" },
+  { name: "Militti Sales & Promotions", logo: "/images/vendors/militti-sales-and-promotions.png" },
+  { name: "Mr. Pumice", logo: "/images/vendors/mr-pumice.png" },
+  { name: "NannoCare", logo: "/images/vendors/nannocare.png" },
+  { name: "Nudge Oral Care", logo: "/images/vendors/nudge-oral-care.png" },
+  { name: "On The Green CBD", logo: "/images/vendors/on-the-green-cbd.png" },
+  { name: "Palm Palm", logo: "/images/vendors/palm-palm.png" },
+  { name: "Rapid Essentials", logo: "/images/vendors/rapid-essentials.jpg" },
+  { name: "(re)Fresh Dry Shampoo", logo: "/images/vendors/refresh-dry-shampoo.png" },
+  { name: "Reliable-1", logo: "/images/vendors/reliable-1.jpg" },
+  { name: "Rhino Patch", logo: "/images/vendors/rhino-patch.jpg" },
+  { name: "Sales First Distributing", logo: "/images/vendors/sales-first-distributing.png" },
+  { name: "Smart Swab", logo: "/images/vendors/smart-swab.png" },
+  { name: "Sprouted Soul CBD", logo: "/images/vendors/sprouted-soul-cbd.png" },
+  { name: "Sun 50", logo: "/images/vendors/sun-50.png" },
+  { name: "Urban Medicine Woman", logo: "/images/vendors/umw-logo-functional-medicine.jpg" },
+  { name: "Vim & Vigr", logo: "/images/vendors/vim-vigr.png" },
+  { name: "Vitry", logo: "/images/vendors/vitry.png" },
+];
+
+export const featuredVendors = vendors.filter((v) => v.featured);
